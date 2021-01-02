@@ -16,7 +16,7 @@ navbar:
     - icon: fa fa-twitter
       href: https://twitter.com/coleman
     - icon: fa fa-rss
-      href: index.xml 
+      href: posts.xml 
 output: 
   distill::distill_article:
     css: mystyle.css
