@@ -1,0 +1,111 @@
+[
+	{
+		"id": "bergerEvaluatingProfilingMeans2001",
+		"type": "chapter",
+		"container-title": "Econometric Evaluation of Labour Market Policies",
+		"event-place": "Heidelberg",
+		"ISBN": "978-3-7908-1372-2",
+		"note": "collection-title: ZEW Economic Studies\nDOI: 10.1007/978-3-642-57615-7_4",
+		"page": "59-84",
+		"publisher": "Physica-Verlag HD",
+		"publisher-place": "Heidelberg",
+		"source": "DOI.org (Crossref)",
+		"title": "Evaluating profiling as a means of allocating government services",
+		"URL": "http://link.springer.com/10.1007/978-3-642-57615-7_4",
+		"volume": "13",
+		"collection-editor": [
+			{
+				"family": "Franz",
+				"given": "Wolfgang"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lechner",
+				"given": "Michael"
+			},
+			{
+				"family": "Pfeiffer",
+				"given": "Friedhelm"
+			}
+		],
+		"author": [
+			{
+				"family": "Berger",
+				"given": "Mark C."
+			},
+			{
+				"family": "Black",
+				"given": "Dan"
+			},
+			{
+				"family": "Smith",
+				"given": "Jeffrey A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "behnckeTargetingLabourMarket2009",
+		"type": "article-journal",
+		"abstract": "We evaluate a randomized experiment of a statistical support system developed to assist caseworkers in Swiss employment offices in choosing appropriate active labour market programmes for their unemployed clients. This statistical support system predicted the labour market outcome for each programme and thereby suggested an ‘optimal’ labour market programme for each unemployed person. The support system was piloted in several employment offices. In those pilot offices, half of the caseworkers used the system and the other half acted as control group. The allocation of the caseworkers to treatment and control group was random. The experiment was designed such that caseworkers retained full discretion about the choice of active labour market programmes, and the evaluation results showed that caseworkers largely did not follow the statistical support system. This indicates that stronger incentives are needed for caseworkers to comply with statistical profiling and targeting systems.",
+		"container-title": "Swiss Journal of Economics and Statistics",
+		"DOI": "10.1007/BF03399281",
+		"ISSN": "2235-6282",
+		"issue": "3",
+		"journalAbbreviation": "Swiss J Economics Statistics",
+		"language": "en",
+		"page": "221-268",
+		"source": "Springer Link",
+		"title": "Targeting labour market programmes — results from a randomized experiment",
+		"URL": "https://doi.org/10.1007/BF03399281",
+		"volume": "145",
+		"author": [
+			{
+				"family": "Behncke",
+				"given": "Stefanie"
+			},
+			{
+				"family": "Frölich",
+				"given": "Markus"
+			},
+			{
+				"family": "Lechner",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					7,
+					1
+				]
+			]
+		}
+	}
+]

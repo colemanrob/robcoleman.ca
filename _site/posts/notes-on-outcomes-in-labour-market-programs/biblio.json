@@ -1,0 +1,76 @@
+[
+	{
+		"id": "adamsAssessingActiveLabourMarket2018",
+		"type": "article-journal",
+		"container-title": "SSRN Electronic Journal",
+		"DOI": "10.2139/ssrn.3276081",
+		"ISSN": "1556-5068",
+		"journalAbbreviation": "SSRN Journal",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "Assessing Active Labour-Market Programs: How Effective Is Ontario Works?",
+		"title-short": "Assessing Active Labour-Market Programs",
+		"URL": "https://www.ssrn.com/abstract=3276081",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Jason"
+			},
+			{
+				"family": "Chow",
+				"given": "Ken"
+			},
+			{
+				"family": "Rose",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "handouyahiaEstimatingImpactActive",
+		"type": "article-journal",
+		"abstract": "In this paper, we discuss the impacts of Employment Benefit and Support Measures delivered in Canada under the Labour Market Development Agreements. We use linked rich longitudinal administrative data covering all LMDA participants from 2002 to 2005. We Apply propensity score matching as in Blundell et al. (2002), Gerfin and Lechner (2002), and Sianesi (2004), and produced the national incremental impact estimates using difference-in-differences and Kernel Matching estimator (Heckman and Smith, 1999). The findings suggest that, both Employment Assistance Services and employment benefit such as Skills Development and Targeted Wage Subsidies had positive effects on earnings and employment.",
+		"language": "en",
+		"page": "7",
+		"source": "Zotero",
+		"title": "Estimating the Impact of Active Labour Market Programs using Administrative Data and Matching Methods",
+		"author": [
+			{
+				"family": "Handouyahia",
+				"given": "Andy"
+			},
+			{
+				"family": "Roberge",
+				"given": "Stéphanie"
+			},
+			{
+				"family": "Gingras",
+				"given": "Yves"
+			},
+			{
+				"family": "Haddad",
+				"given": "Tony"
+			},
+			{
+				"family": "Awad",
+				"given": "Georges"
+			}
+		]
+	}
+]

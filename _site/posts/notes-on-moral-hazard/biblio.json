@@ -1,0 +1,78 @@
+[
+	{
+		"id": "bruttelContractingoutGovernanceMechanisms2005",
+		"type": "report",
+		"abstract": "The contracting-out of job brokerage and case management services is a major international trend in the reform of the Public Employment Service. Instead of a public agency, private providers are contracted to deliver these services for the jobseekers. Australia and the Netherlands have contracted-out (almost) all of this formerly core public service. The U.K. has introduced so-called Employment Zones, in which private providers are responsible for long-term unemployed and thus replace the public Jobcentre Plus for this target-group. Based on agency theory, the paper analyses and compares the contract management in the three cases with respect to the risk of moral hazard. Differentiating between three distinct governance mechanisms (incentives, information and control), the paper shows the requirement of an integrated approach to contract management.",
+		"genre": "Working Paper",
+		"language": "eng",
+		"number": "SP I 2005-109",
+		"publisher": "WZB Discussion Paper",
+		"source": "www.econstor.eu",
+		"title": "Contracting-out and governance mechanisms in the public employment service",
+		"URL": "https://www.econstor.eu/handle/10419/44013",
+		"author": [
+			{
+				"family": "Bruttel",
+				"given": "Oliver"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "luigjesInstitutionalMoralHazard2015",
+		"type": "report",
+		"abstract": "This paper has been written in preparation of a research project funded by the European Commission (on the Feasibility and Added Value of a European Unemployment Benefit Scheme, contract VC/2015/0006). This paper adds information and detailed analysis to the following deliverable of that research project: Institutional Moral Hazard in the Multi-tiered Regulation of Unemployment and Social Assistance Benefits and Activation - A summary of eight country case studies; but it was not a deliverable. We use the concept ‘institutional moral hazard’ to analyse intergovernmental relations within multi-tiered welfare states, specifically the domain of in unemployment-related benefits and related activation policies (the ‘regulation of unemployment’). This paper is one of eight separate case studies, it focuses on Australia. The Australian regulation of unemployment involves two federal departments, the federal Public Employment Services (PES) and private agencies. Australia gradually privatised the activation of the only major unemployment-related benefit. Reforms moved the Australian system away from a ‘black box’ approach towards more detailed minimum requirements, monitoring and control of those private agencies. The Australian experience suggests a trade-off between the need for control on one hand, and the need for flexibility in activation processes on the other hand.",
+		"event-place": "Rochester, NY",
+		"genre": "SSRN Scholarly Paper",
+		"language": "en",
+		"number": "ID 2958261",
+		"publisher": "Social Science Research Network",
+		"publisher-place": "Rochester, NY",
+		"source": "papers.ssrn.com",
+		"title": "Institutional Moral Hazard in the Multi-Tiered Regulation of Unemployment in Australia - Background Paper",
+		"URL": "https://papers.ssrn.com/abstract=2958261",
+		"author": [
+			{
+				"family": "Luigjes",
+				"given": "Chris"
+			},
+			{
+				"family": "Vandenbroucke",
+				"given": "Frank"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,39 @@
+---
+title: "Notes on Caseworker Discretion"
+description: |
+  A short review of research related to caseworker discretion in program assignment
+date: 2020-10-11
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+categories:
+  - policy research
+bibliography: biblio.json
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+@bolhaarCaseworkerDiscretionEffectiveness2018
+
+* direct matching to vacancies improves exit
+* program participation leads to worse outcomes including compared to offering no guidance
+* caseworkers, even with information on effectiveness make non-optimal assignments, reducing discretion makes sense
+
+@huberWhyTougherCaseworkers2016
+
+* research indicates less accommodating caseworkers are more successful in placing people in employment
+* the results are due less to effective program mix of interventions are more to threat of sanctions
+
+@lechnerWhatValueAdded2007
+
+* caseworker do not efficiently assign clients to interventions based on effectiveness
+* distortions in the decision-process could have a number of reasons;
+  * lack appropriate knowledge
+  * goals other than efficiency
+  * interference from other regulations

@@ -1,0 +1,80 @@
+---
+title: "Notes on Sectoral Programs"
+description: |
+  A review of an RCT-based meta-evaluation of sectoral based employment programs
+date: 01-02-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+draft: false
+bibliography: biblio.json
+categories:
+  - policy research
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Overview
+
+* @katzWhySectoralEmployment2020 review key RCT evaluations for sectoral based employment programs - WorkAdvance as implemented in a variety of different US areas
+* Outcome is increased earnings with a focus on persistence; (how long do the effects on earnings last?) and value for money (program costs vs outcomes)
+* The authors first review the components of sectoral programs, review findings and advance a theoretical discussion on what mechanisms are at work that make these programs successful.  Here they offer three possibilities:
+
+  1. the market simply under-provides training, and so any additional training is a net benefit
+  2. sector-focused training providers are more attuned to employer needs and can therefore design programs that build participants' human capital faster
+  3. it could be less about being sector-based and more about the wrap-around services that are built into the program design
+
+### Findings
+
+* treatment gets participants into higher-earning industries and occupations, and these gains appear to be primarily associated with increased work in the targeted sector
+* the sustained positive earnings gains suggest that mechanism #1 is most likely at play
+* there is evidence that suggests that wrap-around services are a key component to success but it is not conclusive, although other ALMPs meta-evaluations have demonstrated this success
+* this is a challenge for ALMP practioners because if it's not clear that the sector-component alone is responsible for the lasting effects, value-for-money comparisons will need to include more traditional delivery of ALMP programming in order to assess policy implications.
+
+<aside>if the mechanism at play is placement + wrap-around support how should we consider sector-based strategies relative to the traditional delivery of employment services?</aside>
+
+### Highlights
+
+> "The pathways to jobs at high-wage employers appear to be increasingly perilous for noncollege workers as seen in a rise in the correlation of firm wage premiums with worker education and worker wage fixed effects" ([Katz et al 2020:3](zotero://open-pdf/library/items/5YU6QPZ7?page=3))
+
+> "Sector-focused training programs train job seekers for "high-quality" employment in specific industries and occupational clusters that are believed to have strong current local labor demand and opportunities for longer-term career advancement.  Targeted sectors typically have included health care, information technology (IT), and manufacturing.  A goal is to open the doors for individuals with non-traditional backgrounds to assist them in attaining highwage jobs in the targeted sectors.  T" ([Katz et al 2020:3](zotero://open-pdf/library/items/5YU6QPZ7?page=3))
+
+> "The sector-focused programs evaluated in these four RCTs generate substantial earnings gains from 14 to 39 percent the year or so following training completion. And all three evaluations with available longer-term follow-ups (WorkAdvance for six years after random assignment, Project Quest for nine years, and Year Up for three years) show substantial persistence of the early earnings gains with little evidence of the fade out of treatment impacts found in many evaluations of past employment programs. Sectorfocused programs appear to generate persistent earnings gains by moving participants into jobs with higher hourly wages rather than mainly by increasing employment rates." ([Katz et al 2020:4](zotero://open-pdf/library/items/5YU6QPZ7?page=4))
+
+> "WorkAdvance substantially served to raise earnings through improved job quality as measured by higher average earnings in the occupations and industries of the treatment group than the control group" - "suggestive evidence that the occupational and soft skills training components are crucial and the earnings impacts don't just reflect screening and placement services." ([Katz et al 2020:5](zotero://open-pdf/library/items/5YU6QPZ7?page=5))
+
+> "Each RCT randomized access to a sectoral employment program among eligible applicants who had passed pre-enrollment screens" ([Katz et al 2020:5](zotero://open-pdf/library/items/5YU6QPZ7?page=5))
+
+> "The core idea behind sectoral employment programs is that improvements in employment-related skills strategically directed towards areas of strong (and rising) labor demand combined with intermediaries to break down barriers to employment for workers with non-traditional backgrounds for the targeted jobs should lead to durable earnings gains and advancement in the labor market" ([Katz et al 2020:5](zotero://open-pdf/library/items/5YU6QPZ7?page=5))
+
+> "The common elements of the WorkAdvance model include (i) screening before enrollment to make sure participants can take advantage of the offered skills training; (ii) sector-appropriate pre-employment and career readiness services; (iii) sector-specific occupational skills training; (iv) sector-specific job development and placement services; and (v) postemployment retention and advancement services with providers attempting to maintain close continuing contact with placed participants and their employers" - "screening role for motivation and possibly other soft skills." ([Katz et al 2020:6](zotero://open-pdf/library/items/5YU6QPZ7?page=6))
+
+> "collected data on participant outcomes from follow-up surveys ranging from 18 months after random assignment for Year Up to around two years after for WorkAdvance and SEIS to six years after for Project Quest.  And the WorkAdvance, Project Quest, and Year Up evaluations also collected administrative earnings records for longer-term tracking of employment outcomes" ([Katz et al 2020:8](zotero://open-pdf/library/items/5YU6QPZ7?page=8))
+
+> "all the programs studied in the four evaluations generated substantial and statistically significant increases in credential and certification attainment relevant to the targeted sector" ([Katz et al 2020:8](zotero://open-pdf/library/items/5YU6QPZ7?page=8))
+
+> "earnings impacts using Texas state administrative earnings data are modestly negative in the first two years after random assignment, turn positive (but not significantly so) in Year 3, become larger and statistically significantly positive in Years 4 to 6 reaching 21 percent in Year 6 and persisting at 18 percent into Year 9" ([Katz et al 2020:9](zotero://open-pdf/library/items/5YU6QPZ7?page=9))
+
+> "earnings gains are substantially driven by increasing the share of participants working in higherwage jobs." ([Katz et al 2020:10](zotero://open-pdf/library/items/5YU6QPZ7?page=10))
+
+> "Sector-focused training programs attempt to reduce human capital deficits through occupational skills, soft skills, and career readiness training.  The programs also help overcome social capital deficits, employer discrimination, and limited job referral networks through pre-employment services and a brokering and vouching role with employers as intermediaries in the job development and placement process." ([Katz et al 2020:12](zotero://open-pdf/library/items/5YU6QPZ7?page=12))
+
+> "The post-placement involvement of program staff may also better allow participants to overcome problems of supervisor implicit bias and discrimination against minority a" ([Katz et al 2020:13](zotero://open-pdf/library/items/5YU6QPZ7?page=13))
+
+> "First, our analysis demonstrates clearly that WorkAdvance treatment gets participants into higher-earning industries and occupations, and these gains appear to be primarily associated with increased work in the targeted sector" - "Second, the sustained positive earnings gains from WorkAdvance through year 6 after random assignment - and for Project Quest through year 9 -- suggest that the gains from sectoral training programs are not merely the result of smoothing over transitory shocks in labor demand, at least if transitory is defined on the time-scale of 5-10 years" - "Third, we interpret both the anecdotal and empirical evidence from the early cohorts at Madison Strategies and Towards Employment, in which some participants were provided wraparound services without sectoral training, as suggestive evidence against the hypothesis that the wraparound services are the main component of the earnings gains from these programs. This evidence must be interpreted with some caution, however, given that the placement-first model was not randomly assigned and the differences across cohorts are imprecisely estimated" ([Katz et al 2020:24](zotero://open-pdf/library/items/5YU6QPZ7?page=24))
+
+> "Persistent earnings gains from programs emphasizing human capital accumulation in addition to support services as compared to those more focused on job search assistance and early job placement is a systematic pattern documented in the cross-country meta-analysis of active labor market program evaluations by Card, Kluve, and Weber (2018)" ([Katz et al 2020:24](zotero://open-pdf/library/items/5YU6QPZ7?page=24))
+
+> "Sectoral employment programs have proven successful in improving the earnings trajectories for low-wage workers without college degrees but with sufficient motivation and basic skills (testing at 6th to 10th grade level and with a high school degree or GED) to gain program entry" ([Katz et al 2020:25](zotero://open-pdf/library/items/5YU6QPZ7?page=25))
+
+> "Crucial research questions going forward are how effective are remote as compared to in-person versions of sectoral employment programs and whether remote versions will allow the more rapid and lowercost scaling up of successful evidence-based training programs" ([Katz et al 2020:25](zotero://open-pdf/library/items/5YU6QPZ7?page=25))
+
+
+
+
+

@@ -1,0 +1,52 @@
+[
+	{
+		"id": "katzWhySectoralEmployment2020",
+		"type": "report",
+		"event-place": "Cambridge, MA",
+		"language": "en",
+		"note": "DOI: 10.3386/w28248",
+		"number": "w28248",
+		"page": "w28248",
+		"publisher": "National Bureau of Economic Research",
+		"publisher-place": "Cambridge, MA",
+		"source": "DOI.org (Crossref)",
+		"title": "Why Do Sectoral Employment Programs Work? Lessons from WorkAdvance",
+		"title-short": "Why Do Sectoral Employment Programs Work?",
+		"URL": "http://www.nber.org/papers/w28248.pdf",
+		"author": [
+			{
+				"family": "Katz",
+				"given": "Lawrence"
+			},
+			{
+				"family": "Roth",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Hendra",
+				"given": "Richard"
+			},
+			{
+				"family": "Schaberg",
+				"given": "Kelsey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					12
+				]
+			]
+		}
+	}
+]

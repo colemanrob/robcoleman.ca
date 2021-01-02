@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+_posts/*/*.js
+_posts/*/*/*/*.js
+_posts/*/*/*/*.css
+_posts/*/*/*/package.json
+_posts/*/*.html

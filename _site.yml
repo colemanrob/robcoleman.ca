@@ -1,0 +1,34 @@
+name: "rob's notes"
+title: "Rob's Notes"
+description: |
+  Rob Coleman's Notes
+output_dir: "_site"
+base_url: https://www.robcoleman.ca/
+navbar:
+  search: false
+  right:
+    - text: "Home"
+      href: index.html
+    - text: Posts
+      href: posts.html
+    - icon: fa fa-github
+      href: https://github.com/colemanrob
+    - icon: fa fa-twitter
+      href: https://twitter.com/coleman
+    - icon: fa fa-rss
+      href: index.xml 
+output: 
+  distill::distill_article:
+    css: mystyle.css
+    md_extensions: +link_attributes
+twitter:
+  site: "@coleman"
+  creator: "@coleman"
+rss:
+  full_content: true
+search: false
+collections:
+  posts:
+      citations: true
+repository_url: https://github.com/colemanrob/robcoleman.ca
+creative_commons: CC BY

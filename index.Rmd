@@ -1,0 +1,19 @@
+---
+title: ""
+image: "rob.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/coleman"
+  - label: GitHub
+    url: "https://github.com/colemanrob"
+  - label: Email
+    url: "mailto:coleman.rob+nospam@gmail.com"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+ 
+## `r emo::ji("wave")`  Hi, I'm Rob!
+
+I think and write most often about how to solve problems using [r, the programming language](https://www.r-project.org/) for data science. At work I think about [active labour market policy](https://en.wikipedia.org/wiki/Active_labour_market_policies), and lead analytics for [ONTatwork](https://twitter.com/ONTatwork).
+

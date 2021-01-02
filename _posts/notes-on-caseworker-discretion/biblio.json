@@ -1,0 +1,136 @@
+[
+	{
+		"id": "lechnerWhatValueAdded2007",
+		"type": "article-journal",
+		"abstract": "What is the Value Added by Caseworkers?* We investigate the allocation of unemployed individuals to different subprograms within Swiss active labour market policy by the caseworkers at local employment offices in Switzerland in 1998. We are particularly interested in whether the caseworkers allocate the unemployed to services in ways that will maximize the program-induced changes in their employment probabilities. Our econometric analysis uses unusually informative data originating from administrative unemployment and social security records. For the estimation we apply matching estimators adapted to the case of multiple programmes. The number of observations in this database is sufficiently high to allow for this nonparametric analysis to be conducted in narrowly defined subgroups. Our results indicate that Swiss caseworkers do not do a very good job of allocating their unemployed clients to the subprograms so as to maximize their subsequent employment prospects. Our findings suggest one of three possible conclusions. First, caseworkers may be trying to solve the problem of allocating the unemployed to maximize their subsequent employment, but may lack the skills or knowledge to do this. Second, caseworkers may have a goal other than efficiency, such as allocating the most expensive services to the least well-off clients, that is not explicit in the law regulating active labour market policies. Third, the distortions of the local decision process could be due to federal authorities imposing strict minimum participation requirements for the various programs at the regional level.",
+		"container-title": "Labour Economics",
+		"DOI": "10.1016/j.labeco.2004.12.002",
+		"ISSN": "09275371",
+		"issue": "2",
+		"journalAbbreviation": "Labour Economics",
+		"language": "en",
+		"page": "135-151",
+		"source": "DOI.org (Crossref)",
+		"title": "What is the value added by caseworkers?",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0927537105000564",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Lechner",
+				"given": "Michael"
+			},
+			{
+				"family": "Smith",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "bolhaarCaseworkerDiscretionEffectiveness2018",
+		"type": "report",
+		"abstract": "In this paper we focus on the role of caseworkers in the assignment and take-up of welfare-to-work programs. We conduct a field experiment that generates exogenous variation in the assignment to different policy regimes to caseworkers. The experiment allows us to provide evidence on the effectiveness of welfare-to-work programs and to study how caseworkers exploit their discretion in assigning these programs to welfare recipients. We find substantial heterogeneity in how caseworkers assign welfare-to-work programs. Participation in the experiment and learning about the effectiveness of the different programs does not induce caseworkers to focus more on the effective programs. This implies that obtaining knowledge about welfare-to-work programs is not enough to improve policy, also effort on implementation is required.",
+		"genre": "Working Paper",
+		"language": "eng",
+		"number": "11666",
+		"publisher": "IZA Discussion Papers",
+		"source": "www.econstor.eu",
+		"title": "Caseworker's Discretion and the Effectiveness of Welfare-to-Work Programs",
+		"URL": "https://www.econstor.eu/handle/10419/185126",
+		"author": [
+			{
+				"family": "Bolhaar",
+				"given": "Jonneke"
+			},
+			{
+				"family": "Ketel",
+				"given": "Nadine"
+			},
+			{
+				"family": "Klaauw",
+				"given": "Bas",
+				"non-dropping-particle": "van der"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "huberWhyTougherCaseworkers2016",
+		"type": "article-journal",
+		"abstract": "Abstract Previous research found that less accommodating caseworkers are more successful in placing unemployed workers into employment. This paper explores the causal mechanisms behind this result using semi-parametric mediation analysis. Analyzing rich linked job seeker-caseworker data for Switzerland, we find that the positive employment effects of less accommodating caseworkers are not driven by a particularly effective mix of labor market programs but, rather, by other dimensions of the counseling process, possibly including threats of sanctions and pressure to accept jobs.",
+		"container-title": "The Review of Economics and Statistics",
+		"DOI": "10.1162/REST_a_00632",
+		"ISSN": "0034-6535",
+		"issue": "1",
+		"note": "publisher: MIT Press",
+		"page": "180-183",
+		"source": "MIT Press Journals",
+		"title": "Why Do Tougher Caseworkers Increase Employment? The Role of Program Assignment as a Causal Mechanism",
+		"title-short": "Why Do Tougher Caseworkers Increase Employment?",
+		"URL": "https://doi.org/10.1162/REST_a_00632",
+		"volume": "99",
+		"author": [
+			{
+				"family": "Huber",
+				"given": "Martin"
+			},
+			{
+				"family": "Lechner",
+				"given": "Michael"
+			},
+			{
+				"family": "Mellace",
+				"given": "Giovanni"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8,
+					24
+				]
+			]
+		}
+	}
+]
