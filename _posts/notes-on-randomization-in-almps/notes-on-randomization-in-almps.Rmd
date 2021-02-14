@@ -1,7 +1,7 @@
 ---
 title: "Notes on Randomization"
 description: |
-  A short review of papers where randomization is use in the evaluation of active labour market programs.
+  A short review of papers where randomization is used in the evaluation of active labour market programs.
 date: 02-14-2021
 output:
   distill::distill_article:
