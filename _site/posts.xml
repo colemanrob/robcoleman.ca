@@ -7,12 +7,19 @@
     <description>Rob Coleman's Notes
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Notes on Randomization</title>
+      <link>https://www.robcoleman.ca/posts/notes-on-randomization-in-almps</link>
+      <description>A short review of papers where randomization is use in the evaluation of active labour market programs.</description>
+      <category>policy research</category>
+      <guid>https://www.robcoleman.ca/posts/notes-on-randomization-in-almps</guid>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Notes on Sectoral Programs</title>
       <link>https://www.robcoleman.ca/posts/notes-on-sectoral-programs</link>
-      <description>&lt;p&gt;A review of an RCT-based meta-evaluation of sectoral based employment programs&lt;/p&gt;
-</description>
+      <description>A review of an RCT-based meta-evaluation of sectoral based employment programs</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-sectoral-programs</guid>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
@@ -20,8 +27,7 @@
     <item>
       <title>Notes on Caseworker Discretion</title>
       <link>https://www.robcoleman.ca/posts/notes-on-caseworker-discretion</link>
-      <description>&lt;p&gt;A short review of research related to caseworker discretion in program assignment&lt;/p&gt;
-</description>
+      <description>A short review of research related to caseworker discretion in program assignment</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-caseworker-discretion</guid>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
@@ -29,8 +35,7 @@
     <item>
       <title>Creating Tables Again</title>
       <link>https://www.robcoleman.ca/posts/creating-tables-again</link>
-      <description>&lt;p&gt;Exploring reactable to build high quality tables for publication.&lt;/p&gt;
-</description>
+      <description>Exploring reactable to build high quality tables for publication.</description>
       <category>code</category>
       <guid>https://www.robcoleman.ca/posts/creating-tables-again</guid>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
@@ -38,8 +43,7 @@
     <item>
       <title>Making Tables</title>
       <link>https://www.robcoleman.ca/posts/making-tables</link>
-      <description>&lt;p&gt;A quick review of the gt package for making tables&lt;/p&gt;
-</description>
+      <description>A quick review of the gt package for making tables</description>
       <category>code</category>
       <guid>https://www.robcoleman.ca/posts/making-tables</guid>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
@@ -47,8 +51,7 @@
     <item>
       <title>dplyr tricks</title>
       <link>https://www.robcoleman.ca/posts/dplyr-tricks</link>
-      <description>&lt;p&gt;A few lesser known dplyr functions that are super useful&lt;/p&gt;
-</description>
+      <description>A few lesser known dplyr functions that are super useful</description>
       <category>code</category>
       <guid>https://www.robcoleman.ca/posts/dplyr-tricks</guid>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
@@ -56,8 +59,7 @@
     <item>
       <title>Notes on Allocating Resources</title>
       <link>https://www.robcoleman.ca/posts/notes-on-allocating-resources</link>
-      <description>&lt;p&gt;A review of research related to allocation of resources in employment programs&lt;/p&gt;
-</description>
+      <description>A review of research related to allocation of resources in employment programs</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-allocating-resources</guid>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
@@ -65,8 +67,7 @@
     <item>
       <title>Notes on Mutual Obligation</title>
       <link>https://www.robcoleman.ca/posts/notes-on-mutual-obligation</link>
-      <description>&lt;p&gt;A review of research on activation requirements&lt;/p&gt;
-</description>
+      <description>A review of research on activation requirements</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-mutual-obligation</guid>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
@@ -74,8 +75,7 @@
     <item>
       <title>Fuzzy Matching</title>
       <link>https://www.robcoleman.ca/posts/fuzzy-matching</link>
-      <description>&lt;p&gt;Using the fuzzyjoin package for inexact matching&lt;/p&gt;
-</description>
+      <description>Using the fuzzyjoin package for inexact matching</description>
       <category>code</category>
       <guid>https://www.robcoleman.ca/posts/fuzzy-matching</guid>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
@@ -83,8 +83,7 @@
     <item>
       <title>Notes on Employment Barriers</title>
       <link>https://www.robcoleman.ca/posts/notes-on-employment-barriers</link>
-      <description>&lt;p&gt;A review of a research paper which offers a new way to empirically evaluate employment barriers&lt;/p&gt;
-</description>
+      <description>A review of a research paper which offers a new way to empirically evaluate employment barriers</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-employment-barriers</guid>
       <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
@@ -92,8 +91,7 @@
     <item>
       <title>Journey to Work</title>
       <link>https://www.robcoleman.ca/posts/journey-to-work</link>
-      <description>&lt;p&gt;A short description of the post.&lt;/p&gt;
-</description>
+      <description>A short description of the post.</description>
       <category>open data</category>
       <guid>https://www.robcoleman.ca/posts/journey-to-work</guid>
       <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
@@ -101,8 +99,7 @@
     <item>
       <title>Notes on Moral Hazard</title>
       <link>https://www.robcoleman.ca/posts/notes-on-moral-hazard</link>
-      <description>&lt;p&gt;Review of research on moral hazard in contracting employment services&lt;/p&gt;
-</description>
+      <description>Review of research on moral hazard in contracting employment services</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-moral-hazard</guid>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
@@ -110,8 +107,7 @@
     <item>
       <title>Notes on Outcomes in Labour Market Programs</title>
       <link>https://www.robcoleman.ca/posts/notes-on-outcomes-in-labour-market-programs</link>
-      <description>&lt;p&gt;A review of research that examines outcomes in labour market programs&lt;/p&gt;
-</description>
+      <description>A review of research that examines outcomes in labour market programs</description>
       <category>policy research</category>
       <guid>https://www.robcoleman.ca/posts/notes-on-outcomes-in-labour-market-programs</guid>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -119,8 +115,7 @@
     <item>
       <title>Exploring Health Inspection Reports</title>
       <link>https://www.robcoleman.ca/posts/exploring-health-inspection-reports</link>
-      <description>&lt;p&gt;A brief examination of health inspection reports in Algoma region&lt;/p&gt;
-</description>
+      <description>A brief examination of health inspection reports in Algoma region</description>
       <category>open data</category>
       <guid>https://www.robcoleman.ca/posts/exploring-health-inspection-reports</guid>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>

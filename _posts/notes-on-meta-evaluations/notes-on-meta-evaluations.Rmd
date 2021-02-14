@@ -1,0 +1,25 @@
+---
+title: "Notes on Meta-Evaluations"
+description: |
+  A list of meta-evaluations for ALMPs
+date: 01-31-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+categories:
+  - policy research
+draft: TRUE
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

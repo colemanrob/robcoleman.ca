@@ -1,0 +1,20 @@
+---
+title: "Notes on Causal Machine Learning"
+description: |
+  A review of causal machine learning papers and ideas
+author: []
+date: 01-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: biblio.json
+draft: TRUE
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+(see Davis and Heller @davisUsingCausalForests2017)
+
