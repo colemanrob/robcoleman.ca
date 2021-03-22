@@ -1,0 +1,41 @@
+---
+title: "New dplyr functions"
+description: |
+  A quick look at `if_any` and `if_all`
+date: 02-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - code
+draft: TRUE
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I probably use `dplyr` everyday, so I was excited to read the news about two new functions, `if_any` and `if_all`.  This is in addition to `across` which I've [written about before](https://robcoleman.ca/posts/dplyr-tricks/) and is also great.  Let's take a quick look at the shiny new helpers.
+
+```{r}
+library(palmerpenguins)
+library(dplyr)
+library(ggplot2)
+
+penguins %>% 
+  glimpse() 
+
+penguins %>% 
+  ggplot(aes(body_mass_g)) +
+  geom_histogram()
+
+```
+
+Let's try only tubby penguins with body mass > 4500
+
+```{r}
+
+```
+
+

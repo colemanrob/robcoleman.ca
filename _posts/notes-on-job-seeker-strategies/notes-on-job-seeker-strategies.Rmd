@@ -1,0 +1,51 @@
+---
+title: "Notes on Job Seeker Strategies"
+description: |
+  A review of a paper that examines adjustment strategies.
+date: 03-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+bibliography: biblio.bib
+categories:
+  - policy research
+---
+
+
+[@morissetteAdjustingJobLossa et. al.] use [Statcan's Longitudinal Worker File (LWF)](https://www.statcan.gc.ca/eng/rdc/lwf) with Census file and [Apprenticeship data](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3154) to examine four adjustment strategies for displaced workers:
+
+1. Regional mobility
+2. PSE enrollment
+3. Apprenticeship enrollment
+4. Self-Employment
+
+### Findings
+
+- <mark>Only 1 in 5 adopt any strategy whatsoever (!)</mark>
+
+- In the first year after job loss, enrolling in PSE was the predominant strategy for women; men predominantly moved to another region. Five years after job loss, moving became the main strategy for both genders.
+
+- Older workers were less likely to move to another region or invest in skills, in both the short and long terms. They were also less likely to become self- employed in the long term.
+n Workers with more education were more likely to pursue PSE, especially if they already had university education, as well as more likely to become self-employed. 
+
+- In both the short and long terms, immigrants — especially women — were less likely to move to another region than workers born in Canada. Immigrants were also less likely to enrol in apprenticeships five years after job loss. Recent immigrant men were more likely to start a business than their Canadian-born counterparts in the long term.
+
+- Men with at least three years of job tenure were less likely to move than were men
+with fewer years on the job, in both the short and long terms. Those with six or
+more years of job tenure were more likely to invest in PSE in the short term.
+n Workers laid off from small firms (fewer than 20 employees) were, all else be- ing equal, more likely to start their own businesses in the short and long terms.
+
+
+### Highlights
+
+> "The use of adjustment strategies varied considerably depending on gender, age, education and other characteristics. For instance, in the first year after job loss, the most common strategy among laid-off women was to enrol in post-secondary education, whereas among men it was to move to another region. Five years after job loss, moving was the predominant strategy for both genders" ( :4)
+
+> "Finally, should we be concerned if the majority of displaced workers fail to adopt any adjustment strategy? If it is because most of them find new jobs soon after job loss, that is one thing — a good news story. But if they remain unemployed for some time, perhaps the programs and policies meant to support labour market adjustment have limitations that prevent people from using them. Without comparable data on a range of adjustment strategies, these questions cannot even be raised." ( :8)
+
+> "Remarkably, three quarters of the displaced workers who were still without jobs in 2010 did not adopt any strategy that first year. Some of them — for example, longtenured ones — might have been waiting for job offers that paid as well as their previous jobs and, as a result, joined the ranks of the long-term unemployed. Others might have left the labour force temporarily because they were discouraged workers" ( :17)
+
+> "Overall, only a minority of displaced workers — at most one out of five — adopted at least one adjustment strategy in either the first or the fifth year after job loss" ( :24)
+
+> "The main finding here is that job loss does not appear to induce — either in the short or the long term — a large behavioural response in terms of an increased use of the four strategies considered in this study. This result is consistent with the fact that, even during tough times, the vast majority of displaced workers find a paid job — albeit one that often pays less than the previous one — shortly after job loss" ( :25)

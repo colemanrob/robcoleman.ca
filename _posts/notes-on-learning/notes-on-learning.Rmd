@@ -1,0 +1,26 @@
+---
+title: "Notes on learning"
+description: |
+  A short collection of learning resources.
+date: 03-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+categories:
+  - code
+draft: true
+---
+
+## Learning R
+
+- [Awesome R Learning Resources](https://github.com/colemanrob/awesome-r-learning-resources) - A well maintained list of great learning resources.
+- [Variance Explained](http://varianceexplained.org) - Data exploration, visualization, machine learning.
+- [Julia Silge](https://juliasilge.com) - tidy models walk throughs, text analysis
+
+## Digital Govt
+
+- [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital/syllabus-index) - Great collection of resources
+
+## Causal Inference
+- [Causal Inference Course](https://www.bradyneal.com/causal-inference-course) - Free and well developed causal inference course materials
