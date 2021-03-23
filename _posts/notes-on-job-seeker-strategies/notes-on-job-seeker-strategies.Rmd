@@ -13,6 +13,7 @@ categories:
   - policy research
 ---
 
+### Overview
 
 [@morissetteAdjustingJobLossa et. al.] use [Statcan's Longitudinal Worker File (LWF)](https://www.statcan.gc.ca/eng/rdc/lwf) with Census file and [Apprenticeship data](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3154) to examine four adjustment strategies for displaced workers:
 
