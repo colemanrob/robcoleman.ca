@@ -1,5 +1,19 @@
 [
   {
+    "path": "posts/reading-list/",
+    "title": "Reading List",
+    "description": "Here's a list of articles I'm working on.",
+    "author": [],
+    "date": "2021-06-17",
+    "categories": [
+      "policy research"
+    ],
+    "contents": "\nIn no particular order:\n(Bransch 2021)\n(Bowlus et al., n.d.)\n(Moslimani, n.d.)\n(Noy, n.d.)\n(“Providing Public Workforce Services to Job Seekers: 30-Month Impact Findings on the WIA Adult and Dislocated Worker Programs,” n.d.)\n(Myers, Harding, and Pasolli, n.d.)\n(Draheim, Schanbacher, and Seiberlich 2021)\n(Deming 2021)\n(Hyggen and Vedeler 2021)\n\n\n\nBowlus, Audra J, Lance Lochner, Chris Robinson, and Eda Suleymanoglu. n.d. “2021-3 Wages, Skills, and Skill-Biased Technical Change: The Canonical Model Revisited,” 45.\n\n\nBransch, Felix. 2021. “Job Search Intensity of Unemployed Workers and the Business Cycle.” Economics Letters 205 (August): 109927. https://doi.org/10.1016/j.econlet.2021.109927.\n\n\nDeming, David. 2021. “The Growing Importance of Decision-Making on the Job.” w28733. Cambridge, MA: National Bureau of Economic Research. https://doi.org/10.3386/w28733.\n\n\nDraheim, Matthias, Peter Schanbacher, and Ruben Seiberlich. 2021. “On the Effectiveness of Case Management for People with Disabilities.” Journal for Labour Market Research 55 (1): 15. https://doi.org/10.1186/s12651-021-00299-9.\n\n\nHyggen, Christer, and Janikke Solstad Vedeler. 2021. “Employer Engagement and Active Labour Market Policies. Evidence from a Norwegian Multi-Method Study.” Social Policy and Society, March, 1–13. https://doi.org/10.1017/S1474746420000421.\n\n\nMoslimani, Mohamad. n.d. “Understanding Place-Based Immigration: The Proposal, Its Popularity, and Its Prospects,” 78.\n\n\nMyers, Karen, Simon Harding, and Kelly Pasolli. n.d. “Skills Training That Works: Lessons from Demand-Driven Approaches,” 30.\n\n\nNoy, Shakked. n.d. “Involuntary Job Loss: Welfare Effects, Earnings Impacts and Policy Options,” 50.\n\n\n“Providing Public Workforce Services to Job Seekers: 30-Month Impact Findings on the WIA Adult and Dislocated Worker Programs.” n.d., 180.\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-17T21:38:28-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/notes-on-job-seeker-strategies/",
     "title": "Notes on Job Seeker Strategies",
     "description": "A review of a paper that examines adjustment strategies.",

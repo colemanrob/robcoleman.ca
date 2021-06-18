@@ -1,0 +1,33 @@
+---
+title: "Reading List"
+description: |
+  Here's a list of articles I'm working on.
+date: 06-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+bibliography: export.bib
+categories:
+  - policy research
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In no particular order:
+
+* [@branschJobSearchIntensity2021]
+* [@bowlus20213WagesSkills]
+* [@moslimaniUnderstandingPlaceBasedImmigration]
+* [@noyInvoluntaryJobLoss]
+* [@ProvidingPublicWorkforce]
+* [@myersSkillsTrainingThat]
+* [@draheimEffectivenessCaseManagement2021]
+* [@demingGrowingImportanceDecisionMaking2021]
+* [@hyggenEmployerEngagementActive2021]
+
+Notes to follow!
