@@ -1,0 +1,43 @@
+---
+title: "Notes on Current Reading"
+description: |
+  A few recent papers with relevant findings.
+date: 10-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+bibliography: biblio.bib
+categories:
+  - policy research
+draft: FALSE
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Not all employed outcomes are equal
+
+[@denglerWelfareRecipientsTransition2021] look at what factors help explain exits into the labour market from social assistance in Germany.  What they find is pretty typical from a labour market literature perspective (human capital in the form of education and prior work experience are positively associated with exiting assistance).
+
+They do offer new insights by using a conceptual tool to describe the labour market in terms of primary sectors vs flexible sectors:
+
+> The German labour market is divided into two segments: one primary segment with stable and better-paid employment and one flexible segment with low-paid and temporary jobs (Eichhorst and Kendzia, 2016). These segments are not completely permeable. For example, flexible jobs that comprise low-skilled jobs might not allow individuals to gain experience valuable for a job in the primary segment. Thus, individuals employed in the secondary segment might not enter the primary segment, but cycle between temporary employment and unemployment
+
+The sector of the job helps explain the stability of the employment transition and so ALMP tools that encourage work-first approaches must consider the sector + additional supports _even when clients are employed_ to move from less to more stable employment.
+
+This insight is critical when development outcomes-based models; not all outcomes are equal and the client journey doesn't end at employment unless it is sufficiently stable.
+
+# Recommendation Engines
+
+[@tranRecommendingMostEffective2021] offer a great paper on building recommendation engines for disability related employment interventions.  Many jurisdictions have used the administrative data they collect on job-seekers to help optimize various parts of the delivery of active labour market programs (most notably through statistical profiling).  As the authors explain,
+
+> Problems solved by these systems do not require counterfactual reasoning. Their main goal is to optimize employment status based on association between factors and the outcome [33]. Our problem focuses on increase in employment chance. It requires addressing counterfactual questions to produce recommendations.
+
+This is an instructive application of causal inference and machine learning and a very interesting exemplar for what is likely to be a growing field across human service domains with sufficiently mature data and evaluation capacity.
+
+The approach is not without it's problems however. On the technical side, considerations on how the training data was generated in the first place (typically existing program rules, caseworker discretion, implicit/explicit bias) are missing.  On the political side; maximizing effectiveness is not the only consideration for optimizing human services; equity considerations and other aims of government typically must be balanced.  Nevertheless, a great read.
+
